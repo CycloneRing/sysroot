@@ -1,1 +1,0 @@
-../s390x-linux-gnu/sys/stat.h
